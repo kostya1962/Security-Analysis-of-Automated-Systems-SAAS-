@@ -363,13 +363,13 @@ flowchart LR
     FZ3 -.-> PD3
     RG3 -.-> FS1
  
-    classDef c0 fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A <!-- бежевый -->
-    classDef c1 fill:#E6F1FB,stroke:#185FA5,color:#0C447C <!-- голубой -->
-    classDef c2 fill:#EEED99,stroke:#534AB7,color:#26215C <!-- жёлтый -->
-    classDef c3 fill:#E1FFAA,stroke:#0F6E56,color:#04342C <!-- зелёный -->
-    classDef c4 fill:#FFAADA,stroke:#854F0B,color:#412402 <!-- розовый -->
-    classDef c5 fill:#5BE5FF,stroke:#993556,color:#4B1528  <!-- синий -->
-    classDef c6 fill:#5A5CE4,stroke:#993C1D,color:#4A1B0C <!-- фиолетовый -->
+    classDef c0 fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A 
+    classDef c1 fill:#E6F1FB,stroke:#185FA5,color:#0C447C 
+    classDef c2 fill:#EEED99,stroke:#534AB7,color:#26215C 
+    classDef c3 fill:#E1FFAA,stroke:#0F6E56,color:#04342C 
+    classDef c4 fill:#FFAADA,stroke:#854F0B,color:#412402
+    classDef c5 fill:#5BE5FF,stroke:#993556,color:#4B1528  
+    classDef c6 fill:#5A5CE4,stroke:#993C1D,color:#4A1B0C 
     class ROOT c0
     class FZ1,FZ2,FZ3,FZ4,FZ5,FZ6,FZ7,FZ8,FZ9,FZ10 c1
     class PD1,PD2,PD3,PD4,PD5,PD6 c2
@@ -378,7 +378,13 @@ flowchart LR
     class GS1,GS2,GS3,GS4,GS5,GS6 c5
     class RG1,RG2,RG3 c6
 ```
-
+<!-- Конституция бежевая -->
+<!-- ФЗ голубые -->
+<!-- Указы Президента жёлтые -->
+<!-- Постановления Правительства зелёные -->
+<!-- розовый -->
+<!-- ГОСТы синие -->
+<!-- Региональные документы фиолетовые -->
 
 ### Как из групп формируются темы
 
